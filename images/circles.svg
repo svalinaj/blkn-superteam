@@ -1,0 +1,13 @@
+<svg width="1059" height="1059" viewBox="0 0 1059 1059" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:overlay">
+<circle cx="529.5" cy="528.5" r="341" stroke="white"/>
+<circle cx="529" cy="529" r="449.5" stroke="white" stroke-dasharray="128 128"/>
+<circle cx="529.5" cy="529.5" r="529" stroke="url(#paint0_linear_39_919)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_39_919" x1="529.5" y1="0" x2="529.5" y2="1059" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
